@@ -1,21 +1,23 @@
 # PWA-Login
-A simple login website with PWA features.
+A Minimalistic Interface to Get the Information of Github Users
+Hit the following URL
+> /github
 
-# Install npm in Ubuntu
+A Basic API Implementation of Financial Records
+Hit the following URL
+> /stock
+
+#Installation
+
+## Install npm in Ubuntu
 sudo apt install npm
 
-# Install nodejs in Ubuntu
+## Install nodejs in Ubuntu
 sudo apt install nodejs
 
-# To check the npm version
-npm -v
-
-# To check the node version
-node -v
-
 # Commands to run 
-npm init
-node server.js
+npm install
+npm start
 
 
 
